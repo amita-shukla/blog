@@ -1,4 +1,6 @@
+#'C'ing again! - Use of double pointer in Linked List Insertion
 http://shuklaamita.blogspot.com/2015/12/cing-again-use-of-double-pointer-in.html
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div dir="ltr" style="text-align: left;" trbidi="on">
