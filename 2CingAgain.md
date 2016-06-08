@@ -1,3 +1,5 @@
+http://shuklaamita.blogspot.com/2015/12/cing-again-use-of-double-pointer-in.html
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div dir="ltr" style="text-align: left;" trbidi="on">
 As I was checking out some programming questions on the topic linked list, it was boring to just read the programs without implementing them.<br />
