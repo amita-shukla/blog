@@ -9,3 +9,6 @@ Mail me at : amitashukla0906@gmail.com
 
 Below are the links to the gists that I embed in my blog, so that it gets easier to maintain...
 
+[https://gist.github.com/amita-shukla/0fceba12422e4f55a29775919ee56c57]
+[https://gist.github.com/amita-shukla/1a8b3421af0c48d687525fb29887db88]
+[https://gist.github.com/amita-shukla/70927d381b09d782e41fff77338b644e]
